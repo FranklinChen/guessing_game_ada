@@ -1,0 +1,10 @@
+name = "guessing_game"
+description = "Guessing game"
+version = "0.1.0-dev"
+
+authors = ["Franklin Chen"]
+maintainers = ["Franklin Chen <franklinchen@franklinchen.com>"]
+maintainers-logins = ["FranklinChen"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = "https://github.com/FranklinChen/guessing_game_ada.git"
+tags = ["game"]
