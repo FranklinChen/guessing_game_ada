@@ -35,7 +35,7 @@ begin
             end if;
          end;
       exception
-         when CONSTRAINT_ERROR =>
+         when Constraint_Error =>
             null;
       end;
    end loop Game;
